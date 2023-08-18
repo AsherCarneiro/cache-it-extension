@@ -12,6 +12,8 @@ Tired of hitting paywalls that keep you from accessing valuable information? We'
 
 2. **Unrestricted Access:** No more giving in to content restrictions. Experience the satisfaction of outsmarting paywalls and gaining access to information that matters to you.
 
+- Single Click on extension icon for cached website **(full-version, text-version and view source options)** and Double-click for cached + **wayback-machine archives** (*if archived)
+
 ## Features
 
 - Lightning-Fast Cache Access ⚡
